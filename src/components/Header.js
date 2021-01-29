@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <Navbar bg="light" expand="lg">
             <LinkContainer to="/">
-                <Navbar.Brand>React-Bootstrap</Navbar.Brand>
+                <Navbar.Brand>Present Simple</Navbar.Brand>
             </LinkContainer>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
