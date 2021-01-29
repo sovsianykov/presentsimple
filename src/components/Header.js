@@ -12,10 +12,10 @@ const Header = () => {
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
                     <LinkContainer to="/service">
-                        <Nav.Link>Service</Nav.Link>
+                        <Nav.Link>Present Perfect</Nav.Link>
                     </LinkContainer>
                     <LinkContainer to="/about">
-                        <Nav.Link>About</Nav.Link>
+                        <Nav.Link>Present Continuos</Nav.Link>
                     </LinkContainer>
                 </Nav>
             </Navbar.Collapse>
