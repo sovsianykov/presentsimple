@@ -17,7 +17,7 @@ function App() {
             arr1.splice(1, 0 , " DON'T ")
          } else if ((arr1[0] === 'HE')||(arr1[0] === 'SHE')) {
              arr1.splice(1, 0 , " DOESN'T ")
-             arr1[2] = arr1[2].replace("S","")
+             arr1[2] = arr1[2].replace("ES","E")
          } else {
              response.innerHTML = "Please, type correct sentence in Present Simple Tense"
              return
