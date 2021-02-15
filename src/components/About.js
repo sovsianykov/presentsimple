@@ -82,8 +82,7 @@ function About() {
                     <Card.Body  >
                         <h1>Present Continuous Exercises</h1>
                         <h3>Input some sentence in <span> present continuous  </span> tense,</h3>
-                        <h4>starting with <span>I, You, He, She, We, They  </span> or  with
-                            <span>I'm, You're, He's, She's, We're, They're  </span></h4>
+                        <h4>starting with <span>I, You, He, She, We, They  </span></h4>
 
                         <InputGroup className="mb-3 i-1">
                             <InputGroup.Prepend>
