@@ -39,7 +39,7 @@ function App() {
             arr1.splice(0, 0 , " DO ");
         } else if ((arr1[0] === 'HE')||(arr1[0] === 'SHE')) {
             arr1.splice(0, 0 , " DOES ")
-            arr1[2] = arr1[2].replace("S","")
+            arr1[2] = arr1[2].replace("ES","E")
 
         } else {
             responseQ.innerHTML = "Please, type correct sentence in Present Simple Tense"
